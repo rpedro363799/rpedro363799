@@ -1,0 +1,4 @@
+baseURL = 'https://rpedro363799.github.io/'
+languageCode = 'en-us'
+title = 'Pedro Rocha'
+theme = "tale-hugo"
